@@ -38,7 +38,7 @@
 .res-card {
   width: 200px;
   margin: 5px;
-  height: 350px;
+  /* height: 350px; */
   padding: 5px;
 }
 .res-card:hover {
